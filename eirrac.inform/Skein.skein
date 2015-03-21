@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0x02DBEDE0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Inform 7 for Windows</generator>
+  <activeNode nodeId="node-0x02DBEDE0"/>
+  <item nodeId="node-0x02DBEDE0">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">eirrac&#x000A;An Interactive Fiction by wiggles&#x000A;Release 1 / Serial number 150320 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD&#x000A;&#x000A;My Dr Seuss Linkin Park Heart&#x000A;&#x000A;&#x000A;"What life is this, this silent path I do now tread; devoid of you, my love, whos face winds circles within my head.&#x000A;&#x000A;What life is this, this one both of us must settle for; How can it just end, this love I have now a shut door.&#x000A;&#x000A;Must I remember the impending future, its time worn claws ripping; its talons ripping, tearing, only taking.&#x000A;&#x000A;"ts okay, I'll be fine" I recite the phrase within my mind; my chin held high by my own lies, only telling myself that there will be strength to find. "So cool, so composed," all the friends around me say; "Getting over it took him only a day."&#x000A;&#x000A;My calm demeanor just a fucking shield, its existence coming at great cost; My thoughts only a whirling storm of what I have lost.&#x000A;&#x000A;Alas, it finally has its end, the crushing realization my reason for this shield; til one day its pealed away again, only to find under it, wretched, unhealed.&#x000A;&#x000A;But until then, I hold my head high, smiling, my jokes right on cue; To appear like I'm here, But underneath the facade my thoughts are only of you."&#x000A;&#x000A;I miss you.&#x000A;&#x000A;And I can't stop loving you.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">NO</temporary>
+  </item>
+</Skein>

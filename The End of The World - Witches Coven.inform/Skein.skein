@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0x031D79A0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Inform 7 for Windows</generator>
+  <activeNode nodeId="node-0x031D79A0"/>
+  <item nodeId="node-0x031D79A0">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">The End of the World: TF Series: Witches Coven, a prequel to the original End of the World Twine game. &#x000A;&#x000A;by The Loveable Wendigo.&#x000A;&#x000A;&#x000A;&#x000A;An Interactive Fiction&#x000A;Create Your Character&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve">The End of the World: TF Series: Witches Coven, a prequel to the original End of the World Twine game. &#x000A;&#x000A;by The Loveable Wendigo.&#x000A;&#x000A;&#x000A;&#x000A;An Interactive Fiction&#x000A;Create Your Character&#x000A;&#x000A;&#x000A;Press any key to continue ...</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="12">NO</temporary>
+    <children>
+      <child nodeId="node-0x031D7A10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031D7A10">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">It's time to choose what sex you were born as.  You'll be lucky to stay this the course of the game, and even luckier to end it as human.&#x000A;&#x000A;Please choose a gender for your character.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve">It's time to choose what sex you were born as.  You'll be lucky to stay this the course of the game, and even luckier to end it as human.&#x000A;&#x000A;Please choose a gender for your character.&#x000A;&#x000A;&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x031EA850"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031EA850">
+    <command xml:space="preserve">m</command>
+    <result xml:space="preserve">Thank you. We now begin...&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve">Thank you. We now begin...&#x000A;&#x000A;&#x000A;Press any key to continue ...</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x031EAB48"/>
+      <child nodeId="node-0x032ACF28"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031EAB48">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">Ah well how to start.. well this is your head.  Yep, that's right, you.  And you've been living in this city for quite a while.  Of course, there's not much to say about you, as you already know, and are starting to wonder why you are saying all this to yourself in your head. &#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031EABB8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031EABB8">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">Welp, might as well give yourself a quick summary of the days events if you're gonna be crazy like this.  Hmmm lets think.. well nothing out of the ordinary happened, UNTIL like right now.  Because you chose to work out for once by jogging like a normal out of shape person through the city park, and got lost.  And then something decided to just shoot out of the sky, or appear out of nowhere or something else that makes someone whos still saying this in their head seem even crazier.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031EAC28"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031EAC28">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">Anyways, the second that dropped out of the sky you could hear stranges noises and cries throughout the city. Which is never a good sign.  Coupled with the horrible uneasy feeling you have had in your stomach since, well... to look at it positively it may have been nice that you got lost in the city park.&#x000A;&#x000A;Okay, time to get some stuff done, like finding a way out so you can at least see what's happened.  You start at a determined pace again, weaving down the path you SWEAR you've been down before.  The bend up ahead is different though... something is casting flickering light against the nearby trees as you get closer and closer.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031EAC98"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031EAC98">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">City Park&#x000A;The path along the park has seemed to come to a small clearing. On one side sits a bench with scattered yellow papers strewn across it. A still smoking crater, obviously made by some sort of falling anomaly, is present right behind it.  The anomaly appears to be some sort of chest or case with several doors, one of which is currently open to allow access to the storage compartment within. The open compartment has what appears to be... wooden sticks?  Or wands... seriously?  Seriously, freaking wands?  Welp, it has been a weird day.  Some bull ran through a china shop today down the road from your work.  Of course, when the cops showed up, they found a whole herd of cattle.  But you crocked that up to it just being the city.&#x000A;&#x000A;Weird things happen in the city.&#x000A;&#x000A;Eerie silence is all that can be heard this deep in the park, and the slight chill in the air makes you feel uneasy just to be here.&#x000A;&#x000A;You can see Fulfill Your Destiny, a wand, a tree, a few bushes, and a streetlight here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x032AC938"/>
+    </children>
+  </item>
+  <item nodeId="node-0x032AC938">
+    <command xml:space="preserve">take wand</command>
+    <result xml:space="preserve">You see nothing special about the wand.&#x000A;&#x000A;Do you pick up the wand?</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x032AC9A8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x032AC9A8">
+    <command xml:space="preserve">u</command>
+    <result xml:space="preserve">Please answer yes or no.&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x032ACF28">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Ah well how to start.. well this is your head.  Yep, that's right, you.  And you've been living in this city for quite a while.  Of course, there's not much to say about you, as you already know, and are starting to wonder why you are saying all this to yourself in your head. &#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve">Ah well how to start.. well this is your head.  Yep, that's right, you.  And you've been living in this city for quite a while.  Of course, there's not much to say about you, as you already know, and are starting to wonder why you are saying all this to yourself in your head. &#x000A;&#x000A;Press any key to continue ...</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x032AD7E8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x032AD7E8">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Welp, might as well give yourself a quick summary of the days events if you're gonna be crazy like this.  Hmmm lets think.. well nothing out of the ordinary happened, UNTIL like right now.  Because you chose to work out for once by jogging like a normal out of shape person through the city park, and got lost.  And then something decided to just shoot out of the sky, or appear out of nowhere or something else that makes someone whos still saying this in their head seem even crazier.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve">Welp, might as well give yourself a quick summary of the days events if you're gonna be crazy like this.  Hmmm lets think.. well nothing out of the ordinary happened, UNTIL like right now.  Because you chose to work out for once by jogging like a normal out of shape person through the city park, and got lost.  And then something decided to just shoot out of the sky, or appear out of nowhere or something else that makes someone whos still saying this in their head seem even crazier.&#x000A;&#x000A;&#x000A;Press any key to continue ...</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x032AE308"/>
+    </children>
+  </item>
+  <item nodeId="node-0x032AE308">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Anyways, the second that dropped out of the sky you could hear stranges noises and cries throughout the city. Which is never a good sign.  Coupled with the horrible uneasy feeling you have had in your stomach since, well... to look at it positively it may have been nice that you got lost in the city park.&#x000A;&#x000A;Okay, time to get some stuff done, like finding a way out so you can at least see what's happened.  You start at a determined pace again, weaving down the path you SWEAR you've been down before.  The bend up ahead is different though... something is casting flickering light against the nearby trees as you get closer and closer.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve">Anyways, the second that dropped out of the sky you could hear stranges noises and cries throughout the city. Which is never a good sign.  Coupled with the horrible uneasy feeling you have had in your stomach since, well... to look at it positively it may have been nice that you got lost in the city park.&#x000A;&#x000A;Okay, time to get some stuff done, like finding a way out so you can at least see what's happened.  You start at a determined pace again, weaving down the path you SWEAR you've been down before.  The bend up ahead is different though... something is casting flickering light against the nearby trees as you get closer and closer.&#x000A;&#x000A;&#x000A;Press any key to continue ...</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x032AF358"/>
+    </children>
+  </item>
+  <item nodeId="node-0x032AF358">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">City Park&#x000A;The path along the park has seemed to come to a small clearing. On one side sits a bench with scattered yellow papers strewn across it. A still smoking crater, obviously made by some sort of falling anomaly, is present right behind it.  The anomaly appears to be some sort of chest or case with several doors, one of which is currently open to allow access to the storage compartment within. The open compartment has what appears to be... wooden sticks?  Or wands... seriously?  Seriously, freaking wands?  Welp, it has been a weird day.  Some bull ran through a china shop today down the road from your work.  Of course, when the cops showed up, they found a whole herd of cattle.  But you crocked that up to it just being the city.&#x000A;&#x000A;Weird things happen in the city.&#x000A;&#x000A;Eerie silence is all that can be heard this deep in the park, and the slight chill in the air makes you feel uneasy just to be here.&#x000A;&#x000A;You can see Fulfill Your Destiny, a wand, a tree, a few bushes, and a streetlight here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve">City Park&#x000A;The path along the park has seemed to come to a small clearing. On one side sits a bench with scattered yellow papers strewn across it. A still smoking crater, obviously made by some sort of falling anomaly, is present right behind it.  The anomaly appears to be some sort of chest or case with several doors, one of which is currently open to allow access to the storage compartment within. The open compartment has what appears to be... wooden sticks?  Or wands... seriously?  Seriously, freaking wands?  Welp, it has been a weird day.  Some bull ran through a china shop today down the road from your work.  Of course, when the cops showed up, they found a whole herd of cattle.  But you crocked that up to it just being the city.&#x000A;&#x000A;Weird things happen in the city.&#x000A;&#x000A;Eerie silence is all that can be heard this deep in the park, and the slight chill in the air makes you feel uneasy just to be here.&#x000A;&#x000A;You can see Fulfill Your Destiny, a wand, a tree, a few bushes, and a streetlight here.&#x000A;&#x000A;&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x032AF3C8"/>
+      <child nodeId="node-0x031FE820"/>
+    </children>
+  </item>
+  <item nodeId="node-0x032AF3C8">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F0FB8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F0FB8">
+    <command xml:space="preserve">examine wand</command>
+    <result xml:space="preserve">You see nothing special about the wand.&#x000A;&#x000A;Do you pick up the wand?</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1028"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1028">
+    <command xml:space="preserve">y</command>
+    <result xml:space="preserve">You pick up the wand, a strange power tingling down your arm as the end briefly glows.&#x000A;&#x000A;&#x000A;&#x000A;&#x000A;**BAM**&#x000A;&#x000A;Before your brain can even process what is happening, a massive explosion of magic happens right in front of you, knocking you to your back with the force.&#x000A;&#x000A;"INTRUDER, LAY DOWN MY ARTIFACT" the sound, decibels above what any normal human could project, nearly blows your damn ears out.  Figuring she must mean the Wand, you throw it to the ground, raising your hands up after as if you were surrendering.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1098"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1098">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">"INTRUDER, LAY IT DOWN OR FACE MY WRATH" You have no idea how to react, so you do what you've always done best and curl into the fetal position.  The massive sound ceases, and the smoke clears, whisking off to nothingness. &#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1108"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1108">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Still shivering, you peek your eyes out from around your arm.  A woman stands there, clad in dark robes, her features beyond beautiful.&#x000A;&#x000A;"What is your name, mortal?" the question flows of her lips like notes rippling on a harp. You stutter your name in response, hardly knowing what the hell is happening.&#x000A;&#x000A;"You have my artifact, young one" she says. "I am the protector of this magical realm, the Mistress of the Dog.  I am one of several who rule this magical realm, among my fellow justicars The Mistress of the Elephant, the Bull, and the Zebra. I have come to despise my sisters though, as being their protector I am always watching over them.. and in the time I have guarded them they have grown restless and violent.&#x000A;&#x000A;Today is the End Day, the day in which their hate for mankind is spilling over.  You do not know this but you are that which is Chosen, one who carries the Artifact."&#x000A;&#x000A;**CRACK**&#x000A;&#x000A;With a snap of her fingers, a box appears in your hands.  "Wha... what is this?" you ask in wonderment.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1178"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1178">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">With a kind smile, she answers "This is the Artifact, child.  It is your kinds only hope in saving your physical world from my sisters and their minions.  You must collect the wands of their covens, place them in the Artifact and then find the ancient device that will remove our world from yours.&#x000A;&#x000A;"Where is it?!" you cry, beginning to get distressed about her extremely high expectations of you.&#x000A;&#x000A;Shaking her head she responds "I do not know, none who hold a wand of power can know that".  Well. This is sounding kinda difficult.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F11E8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F11E8">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">"OO! That reminds me!" she says, snapping her fingers again.  The wand you had previously thrown on the ground rises, slowly moving through the air towards you before coming to a stop and hovering a foot from your box.&#x000A;&#x000A;"Take my wand, The Wand of The Dog, and place it in the box, sealing my magic.  Hurry now! There is not much time! You must find the other three and then dispose of them!" you nod, terrified at the prospect, but still snatch the wand out of the air and throw it in your box.&#x000A;&#x000A;Looking up, the beautiful witch is smiling at you and fading away into nothingness...&#x000A;&#x000A;Well, fuck guess you gotta save the world.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1258"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1258">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Fulfill Your Destiny)&#x000A;&#x000A;Park Entrance&#x000A;The foreboding darkness of the city park looms here, swallowing up any that dare go inside.  Something seems off about it tonight, and not in a good way.&#x000A;&#x000A;You can see Fulfill Your Destiny, a couple bushes, an entrance sign, a bent fence, and a flickering streetlight here.&#x000A;&#x000A;Exits: north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F12C8"/>
+      <child nodeId="node-0x031FE270"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F12C8">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">15 Rogers Road&#x000A;The foreboding darkness of the city park looms here, swallowing up any that dare go inside.  Something seems off about it tonight, and not in a good way.&#x000A;&#x000A;Exits: south to Park Entrance, west, northwest, north and east.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1338"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1338">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Junkyard&#x000A;The junkyard seems empty other then sound of the wind blowing.  This shit hole seems like it would be the favorite spot of anything porcine, considering its atrocious smell and amount of mud.. Maybe it's best to watch where you step.&#x000A;&#x000A;You can see some trash, a toolbox, and an orange container (empty) here.&#x000A;&#x000A;Exits: east to 15 Rogers Road and west.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F13A8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F13A8">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Entrance to Warehouse Row&#x000A;The industrial quarter of the city is sprawled in front of you, the hundreds of shipping containers weaving around the massive warehouses here.  Most of them connect to the ocean, allowing enormous ships to dock and load up on supplies before heading out into the dark ocean.  Just like the park, it's silent and empty.  There's a few workers that must be here, though, as lights are on in several warehouses and hushed voices can be heard.&#x000A;&#x000A;Exits: east to Junkyard, west and south.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1418"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1418">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Ocean Path&#x000A;Spiraling to the west is a lone path, which begins at a knocked down chain fence and rides the hills along the northern part of the Warehouse Row.  It's path can be somewhat treacherous, as the land changes from concrete structures to mountainous cliffsides.  Who knows where a path like that will lead...&#x000A;&#x000A;Exits: east to the Entrance to Warehouse Row and northwest.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1488"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1488">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F14F8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F14F8">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Entrance to Warehouse Row&#x000A;The industrial quarter of the city is sprawled in front of you, the hundreds of shipping containers weaving around the massive warehouses here.  Most of them connect to the ocean, allowing enormous ships to dock and load up on supplies before heading out into the dark ocean.  Just like the park, it's silent and empty.  There's a few workers that must be here, though, as lights are on in several warehouses and hushed voices can be heard.&#x000A;&#x000A;Exits: east to Junkyard, west to Ocean Path and south.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1568"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1568">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">AJK Supply Entrance&#x000A;As you walk into the first warehouse of warehouse row, the sound of barking greets you.  Cages are everywhere, lining every wall with thousands of dogs in them. Looking closer it seems like they are pleading for help, most of them sitting there purposely trying to meet your gaze.&#x000A;&#x000A;Exits: north to the Entrance to Warehouse Row and south.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F15D8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F15D8">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Tinman Moving Entrance&#x000A;Tinman... well that's a creepy name.  You stare up at the enormous foreboding letters on the outside of the warehouse, your mind creating all sorts of terrifying witchrelated acts that can happen to you the second you step in that warehouse.  Jeez, you already spooked yourself.&#x000A;&#x000A;Exits: north to AJK Supply Entrance, southwest, west and east.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1648"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1648">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Dark CulDeSac&#x000A;A portal... or what you can only assume is a portal, as youre kinda new to this whole magic thing.. sits in the middle of the darkened culdesac.  Through the small localized black hole of terrifyingness, you can begin to make out some structures on the other side.  It seems like a bright and happy day there, in some sort of junglelike, perhaps savannahlike, environment.  Looking closer you can see people, dozens of them, standing on the other side of a cage.  Jeez.. what are these witches up to?&#x000A;&#x000A;You can see Portal (empty) here.&#x000A;&#x000A;Exits: west to Tinman Moving Entrance.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F16B8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F16B8">
+    <command xml:space="preserve">enter portal</command>
+    <result xml:space="preserve">You get into Portal.&#x000A;&#x000A;You step through the portal, a slight burning feeling washing across your body as you do.&#x000A;&#x000A;"Caroline!" A voice yells. "wake up, come on we are putting on the show for Christ sakes".  You look around, flustered and trying to get a sense of your surroundings. "Caroline! Quit daydreaming!" The voice echoes again, this time you can recognize it coming from your right..  You wheel around to see a woman beckoning at what must only be you, as you can now see now the other humans on the other side of bars along the entire clearing to the left.&#x000A;&#x000A;"Wha? me.. whats wrong with my voice?" you gasp, looking down to see that you have breasts?  Cute little B-cups in a light blue shirt, with jean shorts below, showing off your long tan legs.  You have what looks like a safari hat on and a nametag that says Caroline on it.  Oh fuck. You must've changed places with someone.. obviously a young woman.. when you took the portal.  Your friend, or fellow safari adventurer or whatever was going on, was a few feet away, striding towards you and... SMACK! &#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1728"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1728">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">She smacked you across your face, a teasing smile on her lips. "Come on, girl" she said, looking deep in your eyes, "we gotta feed the giraffes, the whole crowd is here to see it...  heh, I think I know what you are thinking about but come on."  She turned after a flirty wink as it all came together in your head.  You must be in some sort of zoo, as one of the zookeepers, and this was definitely your lover?  Definitely.  The way she looked at you.  Sweet!!!! Hot lesbians! you think to yourself, beginning to trudge after her, thinking about her awesome ass.&#x000A;&#x000A;That's when a few giraffes strode around the corner, to the gasping amusement of the crowd.  Cameras started snapping immediately. Everything must've been fine though, as your lover, whatever her name is, turned around and waved back at the crowd confidently.  You glanced quickly at "Amys" badge just to learn your sexy lesbian lovepieces name in case anything.. happened.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1798"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1798">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">"Caroline!" Amys whisper wakes you from your thoughts of her naked body being at your whim.  "Oh.. uh yeah shit, what we gonna do?" you ask, also trying to keep it at a whisper.  You don't want to start acting like a crazy person in front of a crowd.&#x000A;&#x000A;Amy looks frustrated by your weird reactions, her pretty face scrunched in a scowl as she retorts "Goddamnit keep your mind on whats at hand.. we gotta give the crowd the show of feeding the dumb beasts, and do damn good job of sneakly injecting the late releasing pheromones in them so we don't have to come back tonight. We've done it a hundred times before, whats wrong with you?"&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1808"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1808">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">You look down into your pouch, finding a tiny syringe, labeled GIR-PHER-0316.  "Sorry, I know what we're doing".  You apology was kind of true... you know you're gonna have to inject these giant beasts with this serum, easy easy.  "You feed em I'll inject em" you say.  Amy nods in agreement, fulling a food pouch out of her zookeepers bag.  You pull the serum out, trying to be subtle.  Maybe you can go along with this and you and Amy can have some fun later..&#x000A;&#x000A;Taking the safety cap off the serum as Amy starts to introduce the crowd to the giraffes through a microphone headset, you walk over near her to the haunch of the first giraffe.  You hardly meet the haunches of the giant slender beast, the impressive height something you had never seen before in an animal.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1878"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1878">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">The giraffe senses your uneasiness.. or maybe something else. Fuck you gotta do this now, Amy is reciting her lines but staring at you with that one scowl.  Grabbing the needle, you pull it back Pulp Fiction style and thrust it forward.  The giraffe makes some sort of bellow in surprise and bucks, smacking your hand and the syrine right out of it... and into Amys shoulder.&#x000A;&#x000A;"OW FUCK" she yells in response, pulling it out immediately and throwing it to the ground in frustration. "WHAT THE FUCK?!" she yells at you.  But you aren't paying attention.  You are sitting there with your mouth open at the sight of fur sprouting out of her shoulder. "Ugh I feel weird.." she says, rubbing her arm and gasping out loud at the feeling of growing fur.&#x000A;&#x000A;"NOOO!"&#x000A;&#x000A;The giraffes scatter, and the crowd is murmuring in confusion.  You are just staring at Amy, trying to apologize, as she starts moaning and holding her stomach.  Her hand moves down to her crouch, and her moans grow deeper as small horns form on her head.  "Caroline I feel sooooo good" she bellows, staring at you in a very.. dominant way.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F18E8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F18E8">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">"Don't worry Amy" is all you can say.  But you don't mean it, you have no idea where you are let alone how to fix this. And HOLY SHIT... you can't believe what you are seeing.  Her former hands (now hooves) frantically fumbling with the area, a massive sheathed giraffe dick explodes out her pants, precum leaking out and falling to the ground.&#x000A;&#x000A;Amy seems to have forgotten anything else but the need of getting off, her lengthening arms frantically rubbing her new phallus.  You have no idea what to do, but running is sounding good about now.&#x000A;&#x000A;Right when you think that, Amy leaps forward and shoves you down to your knees. "YOU DID THIS, NOW HELP!" her almost animal demand echoing through your ears.  You try to struggle despite your small frame, but its no use.  Amys almost half bull giraffe by now and sexcrazed, and she holds you down, throbbing dick proding your face.  It finds your pursed female lips, and you try to hold them shut as best you can. &#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1958"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1958">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">You can't hold it for long.. you have to do something. You try to get out something to bring her to her senses but she just shoves her giraffe dick in your mouth the instant you open it. "FLFURRRRFFFFFF" is all you can say as she fucks your throat.  Tears stream down your throat as you get face fucked, the tourists just standing in shock.&#x000A;&#x000A;But then you felt something.  Wetness in your nether regions.  Were you getting turned on?  A earsplitting bellow exploded from Amy as she continued her steady thrusts.  She must be really enjoying the feeling of having a dick, and pounding into your throat.  All you can do is gag and stay there squatting on the ground being raped by your increasingly bull-giraffe lover.  The thought sends a quick tingle of pleasure through the wetness in your pants, the surprise of it allowing a "mmmm" to escape the lips that are tight wrapped around the giraffe cock.&#x000A;&#x000A;God there it was again.. "MmmmmMMM" you say, confused by the pleasure, but certainly not disliking it.  You couldn't believe that you were getting turned on by the thought of being raped by a giraffe, especially as a woman.. but you couldn't help it. It just felt natural.  You felt your finger exploring the area below you, fumbling for a way into your khakis.  Finding the zipper, you pulled it down, grabbing your panties (and noticing that Caroline was definitely someone who shaved) and pulling them to the side to touch your warm lips.  You had been with a woman before, and it felt much like when you pleasured them with your curious fingers, but this was something else.  You felt like a agent of reproduction, your hands teasing your unknown, unexplored area, causing the natural lube your body was creating to cover your hands, proof of your extreme need.&#x000A;&#x000A;Your male mind.. hell your human mind.. was struggling and fighting a losing battle.  Unknown to you, the quality of the throat fucking you were getting began to return itself, your lips rubbing and moving with the large cock as you got more into it. You other hand went down to cup your bull giraffe lovers impressive testicles, softly massaging them.  Amy, now almost half a giraffe, and a male one at that, suddenly tensed with the increased encouragement and smell of your attraction.  You could feel the balls shake in your hands with a final thrust as your throat was gifted her massive amount of animal cum, all the way down it and into your stomach.  "Mmmmmm" the sound sneaking out of your mouth again, your attraction to this mate driving you nuts.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F19C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F19C8">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">The you realized what you just did.  And you fall to ground, disgusted beyond belief at yourself, the thought of the massive amount of giraffe cum sitting in your stomach making you feel queasy.  You try to think what you have to do to get out of this nightmare of lust...&#x000A;&#x000A;Taking a deep breath you stand up and wheel around, marching across the habitat to what appears to be an exit near the gaping mouthed tourists.  But as you stride, trying to keep yourself composed, your stomach start to growl, a slow soreness spreading from it.  Soon you can hardly walk, stopping to hold your stomach.  That cum may be turning you too, you think in a panic, terrified of the thought of it moving through you, turning you into a female giraffe.  But if that's true that must mean your mouth..&#x000A;&#x000A;And as if it was right on cue.. your tongue falls out of your mouth.  No, not out, its just draped down, a bluelish color.  Just like the other giraffes, specifically a still changing Amy.  Which, where is she?  Turning around you can see her walking after you still, her body still changing into a dominant fuck machine.&#x000A;&#x000A;Your stomach gurgles again, bringing the feeling of heat to your loins with it. "Oooooo nooo" you moan, the thought of being pushed over, cheeks spread and fucked like an animal exciting you.  Your pants seem like they hardly fit, and your sexy zookeeper ass, the same ass you definitely did not start the day with, seems to be growing.  The pain your tight pants are causing is unbearable too.  You have to take them off.  "OW OW OWW" you yelp as they split before you even can, wide long hips with tan and white giraffes fur popping out of them.  You start to scream, trying to run away from your imminent change. "NOOOO I don't wanna be a giraffe!" you screamed as your body changes again, a short tail with a small poof of fur on the end extending out of your widening ass.  The cum is changing you, and its changing from the inside... "UGHHH" you groan as you feel your organs change, your pussy screaming for you to be mounted.&#x000A;&#x000A;Suddenly you can feel your tail raise, and the absolutely humiliated you drops a large pile of manure. Just another sign you will be an animal soon.&#x000A;&#x000A;&#x000A;&#x000A;    *** Game Over.  "Ummm... Lesbian Giraffes?!"  Male Human to Female Giraffe. ***&#x000A;&#x000A;&#x000A;In that game you scored 0 out of a possible 0, in 13 turns.&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT, or UNDO the last command?&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1A38"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1A38">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">The End of the World: TF Series: Witches Coven, a prequel to the original End of the World Twine game. &#x000A;&#x000A;by The Loveable Wendigo.&#x000A;&#x000A;&#x000A;&#x000A;An Interactive Fiction&#x000A;Create Your Character&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1AA8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1AA8">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">It's time to choose what sex you were born as.  You'll be lucky to stay this the course of the game, and even luckier to end it as human.&#x000A;&#x000A;Please choose a gender for your character.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1B18"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1B18">
+    <command xml:space="preserve">f</command>
+    <result xml:space="preserve">Thank you. We now begin...&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1B88"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1B88">
+    <command xml:space="preserve">m</command>
+    <result xml:space="preserve">Ah well how to start.. well this is your head.  Yep, that's right, you.  And you've been living in this city for quite a while.  Of course, there's not much to say about you, as you already know, and are starting to wonder why you are saying all this to yourself in your head. &#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1BF8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1BF8">
+    <command xml:space="preserve">m</command>
+    <result xml:space="preserve">Welp, might as well give yourself a quick summary of the days events if you're gonna be crazy like this.  Hmmm lets think.. well nothing out of the ordinary happened, UNTIL like right now.  Because you chose to work out for once by jogging like a normal out of shape person through the city park, and got lost.  And then something decided to just shoot out of the sky, or appear out of nowhere or something else that makes someone whos still saying this in their head seem even crazier.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1C68"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1C68">
+    <command xml:space="preserve">m</command>
+    <result xml:space="preserve">Anyways, the second that dropped out of the sky you could hear stranges noises and cries throughout the city. Which is never a good sign.  Coupled with the horrible uneasy feeling you have had in your stomach since, well... to look at it positively it may have been nice that you got lost in the city park.&#x000A;&#x000A;Okay, time to get some stuff done, like finding a way out so you can at least see what's happened.  You start at a determined pace again, weaving down the path you SWEAR you've been down before.  The bend up ahead is different though... something is casting flickering light against the nearby trees as you get closer and closer.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1CD8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1CD8">
+    <command xml:space="preserve">m</command>
+    <result xml:space="preserve">City Park&#x000A;The path along the park has seemed to come to a small clearing. On one side sits a bench with scattered yellow papers strewn across it. A still smoking crater, obviously made by some sort of falling anomaly, is present right behind it.  The anomaly appears to be some sort of chest or case with several doors, one of which is currently open to allow access to the storage compartment within. The open compartment has what appears to be... wooden sticks?  Or wands... seriously?  Seriously, freaking wands?  Welp, it has been a weird day.  Some bull ran through a china shop today down the road from your work.  Of course, when the cops showed up, they found a whole herd of cattle.  But you crocked that up to it just being the city.&#x000A;&#x000A;Weird things happen in the city.&#x000A;&#x000A;Eerie silence is all that can be heard this deep in the park, and the slight chill in the air makes you feel uneasy just to be here.&#x000A;&#x000A;You can see Fulfill Your Destiny, a wand, a tree, a few bushes, and a streetlight here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1D48"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1D48">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">Are you sure you want to restart?</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1DB8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1DB8">
+    <command xml:space="preserve">y</command>
+    <result xml:space="preserve">The End of the World: TF Series: Witches Coven, a prequel to the original End of the World Twine game. &#x000A;&#x000A;by The Loveable Wendigo.&#x000A;&#x000A;&#x000A;&#x000A;An Interactive Fiction&#x000A;Create Your Character&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1E28"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1E28">
+    <command xml:space="preserve">m</command>
+    <result xml:space="preserve">It's time to choose what sex you were born as.  You'll be lucky to stay this the course of the game, and even luckier to end it as human.&#x000A;&#x000A;Please choose a gender for your character.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1E98"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1E98">
+    <command xml:space="preserve">m</command>
+    <result xml:space="preserve">Thank you. We now begin...&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031F1F08"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031F1F08">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Ah well how to start.. well this is your head.  Yep, that's right, you.  And you've been living in this city for quite a while.  Of course, there's not much to say about you, as you already know, and are starting to wonder why you are saying all this to yourself in your head. &#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FD8D0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FD8D0">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Welp, might as well give yourself a quick summary of the days events if you're gonna be crazy like this.  Hmmm lets think.. well nothing out of the ordinary happened, UNTIL like right now.  Because you chose to work out for once by jogging like a normal out of shape person through the city park, and got lost.  And then something decided to just shoot out of the sky, or appear out of nowhere or something else that makes someone whos still saying this in their head seem even crazier.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FD940"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FD940">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Anyways, the second that dropped out of the sky you could hear stranges noises and cries throughout the city. Which is never a good sign.  Coupled with the horrible uneasy feeling you have had in your stomach since, well... to look at it positively it may have been nice that you got lost in the city park.&#x000A;&#x000A;Okay, time to get some stuff done, like finding a way out so you can at least see what's happened.  You start at a determined pace again, weaving down the path you SWEAR you've been down before.  The bend up ahead is different though... something is casting flickering light against the nearby trees as you get closer and closer.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FD9B0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FD9B0">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">City Park&#x000A;The path along the park has seemed to come to a small clearing. On one side sits a bench with scattered yellow papers strewn across it. A still smoking crater, obviously made by some sort of falling anomaly, is present right behind it.  The anomaly appears to be some sort of chest or case with several doors, one of which is currently open to allow access to the storage compartment within. The open compartment has what appears to be... wooden sticks?  Or wands... seriously?  Seriously, freaking wands?  Welp, it has been a weird day.  Some bull ran through a china shop today down the road from your work.  Of course, when the cops showed up, they found a whole herd of cattle.  But you crocked that up to it just being the city.&#x000A;&#x000A;Weird things happen in the city.&#x000A;&#x000A;Eerie silence is all that can be heard this deep in the park, and the slight chill in the air makes you feel uneasy just to be here.&#x000A;&#x000A;You can see Fulfill Your Destiny, a wand, a tree, a few bushes, and a streetlight here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FDA20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FDA20">
+    <command xml:space="preserve">examine wand</command>
+    <result xml:space="preserve">You see nothing special about the wand.&#x000A;&#x000A;Do you pick up the wand?</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FDA90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FDA90">
+    <command xml:space="preserve">y</command>
+    <result xml:space="preserve">You pick up the wand, a strange power tingling down your arm as the end briefly glows.&#x000A;&#x000A;&#x000A;&#x000A;&#x000A;**BAM**&#x000A;&#x000A;Before your brain can even process what is happening, a massive explosion of magic happens right in front of you, knocking you to your back with the force.&#x000A;&#x000A;"INTRUDER, LAY DOWN MY ARTIFACT" the sound, decibels above what any normal human could project, nearly blows your damn ears out.  Figuring she must mean the Wand, you throw it to the ground, raising your hands up after as if you were surrendering.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FDB00"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FDB00">
+    <command xml:space="preserve">[up]</command>
+    <result xml:space="preserve">"INTRUDER, LAY IT DOWN OR FACE MY WRATH" You have no idea how to react, so you do what you've always done best and curl into the fetal position.  The massive sound ceases, and the smoke clears, whisking off to nothingness. &#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FDB70"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FDB70">
+    <command xml:space="preserve">[up]</command>
+    <result xml:space="preserve">Still shivering, you peek your eyes out from around your arm.  A woman stands there, clad in dark robes, her features beyond beautiful.&#x000A;&#x000A;"What is your name, mortal?" the question flows of her lips like notes rippling on a harp. You stutter your name in response, hardly knowing what the hell is happening.&#x000A;&#x000A;"You have my artifact, young one" she says. "I am the protector of this magical realm, the Mistress of the Dog.  I am one of several who rule this magical realm, among my fellow justicars The Mistress of the Elephant, the Bull, and the Zebra. I have come to despise my sisters though, as being their protector I am always watching over them.. and in the time I have guarded them they have grown restless and violent.&#x000A;&#x000A;Today is the End Day, the day in which their hate for mankind is spilling over.  You do not know this but you are that which is Chosen, one who carries the Artifact."&#x000A;&#x000A;**CRACK**&#x000A;&#x000A;With a snap of her fingers, a box appears in your hands.  "Wha... what is this?" you ask in wonderment.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FDBE0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FDBE0">
+    <command xml:space="preserve">[up]</command>
+    <result xml:space="preserve">With a kind smile, she answers "This is the Artifact, child.  It is your kinds only hope in saving your physical world from my sisters and their minions.  You must collect the wands of their covens, place them in the Artifact and then find the ancient device that will remove our world from yours.&#x000A;&#x000A;"Where is it?!" you cry, beginning to get distressed about her extremely high expectations of you.&#x000A;&#x000A;Shaking her head she responds "I do not know, none who hold a wand of power can know that".  Well. This is sounding kinda difficult.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FDC50"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FDC50">
+    <command xml:space="preserve">[up]</command>
+    <result xml:space="preserve">"OO! That reminds me!" she says, snapping her fingers again.  The wand you had previously thrown on the ground rises, slowly moving through the air towards you before coming to a stop and hovering a foot from your box.&#x000A;&#x000A;"Take my wand, The Wand of The Dog, and place it in the box, sealing my magic.  Hurry now! There is not much time! You must find the other three and then dispose of them!" you nod, terrified at the prospect, but still snatch the wand out of the air and throw it in your box.&#x000A;&#x000A;Looking up, the beautiful witch is smiling at you and fading away into nothingness...&#x000A;&#x000A;Well, fuck guess you gotta save the world.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FDCC0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FDCC0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Fulfill Your Destiny)&#x000A;&#x000A;Park Entrance&#x000A;The foreboding darkness of the city park looms here, swallowing up any that dare go inside.  Something seems off about it tonight, and not in a good way.&#x000A;&#x000A;You can see Fulfill Your Destiny, a couple bushes, an entrance sign, a bent fence, and a flickering streetlight here.&#x000A;&#x000A;Exits: north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FDD30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FDD30">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">15 Rogers Road&#x000A;The foreboding darkness of the city park looms here, swallowing up any that dare go inside.  Something seems off about it tonight, and not in a good way.&#x000A;&#x000A;Exits: south to Park Entrance, west, northwest, north and east.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FDDA0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FDDA0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Lackluster Apartments&#x000A;The crumbling building labeled "Lackluster Apartments" is only really used by the assorted methheads living in the area, and as a quick, albeit dangerous, shortcut between the back gate of the nearby Research building and the city park.&#x000A;&#x000A;Exits: south to 15 Rogers Road and north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FDE10"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FDE10">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">HK Research Group&#x000A;The inner quarters of the firm may be locked, but the same old passable fences are there.  The high end company tried to repair the cut holes and kicked in chains the first few months... but the companies decision to build their structure right in the middle of one of the primary paths through the city was a dumb idea.  People may work there during the day... but it was the path it provided at night that made it popular.&#x000A;&#x000A;Exits: south to Lackluster Apartments, east and north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FDE80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FDE80">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Commercial Intersection&#x000A;Quite a crossroads, Commercial Intersection is busy despite... current events.  A group of young women, obviously oblivious to everything but themselves, are striding towards the mall, probably intent on selling their parents money.  A massive parking lot of cars rides along the road, backup for the underground parking garage at the mall.  A group of people putting on a play are running about in scripted motion a little farther down from the young women, and a crowd of people are watching next to it.  Though a large amount of them seem to be paying attention to something happening right next to them.  You can't see what though.&#x000A;&#x000A;You can see Gaggle Of Girls, Traveling Actors, and Crowd here.&#x000A;&#x000A;Exits: south to HK Research Group, northeast, west and north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FDEF0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FDEF0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Mall Entrance&#x000A;The Mall Entrance is a mostly fountain, with spiraling and shooting archs of water all over, an impressive sign over them stating its the entrance to St Peters Mall.  It certainly stands out.&#x000A;&#x000A;Exits: south to Commercial Intersection and north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FDF60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FDF60">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Jupiter Hall&#x000A;All around you the mall bustles with people.  A certain uneasiness is in the air though, something isn't right.   You may want to check that out... or you could go to the food court and chow down on some delicious fast food.  Or, if you want to go shopping, there's assorted outlets throughout the store.&#x000A;&#x000A;Exits: south to Mall Entrance, west and north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FDFD0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FDFD0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Mall Entrance&#x000A;The Mall Entrance is a mostly fountain, with spiraling and shooting archs of water all over, an impressive sign over them stating its the entrance to St Peters Mall.  It certainly stands out.&#x000A;&#x000A;Exits: south to Commercial Intersection and north to Jupiter Hall.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FE040"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FE040">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Commercial Intersection&#x000A;Quite a crossroads, Commercial Intersection is busy despite... current events.  A group of young women, obviously oblivious to everything but themselves, are striding towards the mall, probably intent on selling their parents money.  A massive parking lot of cars rides along the road, backup for the underground parking garage at the mall.  A group of people putting on a play are running about in scripted motion a little farther down from the young women, and a crowd of people are watching next to it.  Though a large amount of them seem to be paying attention to something happening right next to them.  You can't see what though.&#x000A;&#x000A;You can see Gaggle Of Girls, Traveling Actors, and Crowd here.&#x000A;&#x000A;Exits: south to HK Research Group, northeast, west and north to Mall Entrance.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FE0B0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FE0B0">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">Haverton Bridge&#x000A;The Haverton Bridge juts off at an awkward angle, the addition of the uptown district obvious as a later one.  You can see a few people walking across it, drunk as shit.  The uptown district is known for one thing... its bars.  Well, two things.  The second is it's population.  All douchebags with orange spray tans, and hot chicks with a stick up their ass.&#x000A;&#x000A;Exits: southwest to Commercial Intersection and northeast.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FE120"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FE120">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">Party Avenue&#x000A;Party. Freaking. Avenue.  You remember when you were 21 and used to be here every night.  With how expensive the bars are here, thats probably why you're scrambling for money now.  Looking down the row you can see all the locales you used to consume alcohol in.  It looks like not much has changed.&#x000A;&#x000A;Exits: southwest to Haverton Bridge, east and north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FE190"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FE190">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Upper Class Arts&#x000A;Upper Class Arts is this gimicky thing for rich couples to drink wine and make paintings Bob Ross style.  Of course, they're drunk and not artists so they typically turn out terrible, but they're rich, so they aren't worried about what they spend their money on.&#x000A;&#x000A;Exits: south to Party Avenue and northeast.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FE200"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FE200">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">The Long John&#x000A;You enter The Long John, a nearby bar that's usually packed this time of the day.  As you enter, you can see a crowd near bar.  Wait a sec, they're all wearing ski masks..&#x000A;&#x000A;Exits: southwest to Upper Class Arts and north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x031FE270">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FE2E0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FE2E0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">15 Rogers Road&#x000A;The foreboding darkness of the city park looms here, swallowing up any that dare go inside.  Something seems off about it tonight, and not in a good way.&#x000A;&#x000A;Exits: south to Park Entrance, west, northwest, north and east.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FE350"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FE350">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Lackluster Apartments&#x000A;The crumbling building labeled "Lackluster Apartments" is only really used by the assorted methheads living in the area, and as a quick, albeit dangerous, shortcut between the back gate of the nearby Research building and the city park.&#x000A;&#x000A;Exits: south to 15 Rogers Road and north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FE3C0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FE3C0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">HK Research Group&#x000A;The inner quarters of the firm may be locked, but the same old passable fences are there.  The high end company tried to repair the cut holes and kicked in chains the first few months... but the companies decision to build their structure right in the middle of one of the primary paths through the city was a dumb idea.  People may work there during the day... but it was the path it provided at night that made it popular.&#x000A;&#x000A;Exits: south to Lackluster Apartments, east and north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FE430"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FE430">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Commercial Intersection&#x000A;Quite a crossroads, Commercial Intersection is busy despite... current events.  A group of young women, obviously oblivious to everything but themselves, are striding towards the mall, probably intent on selling their parents money.  A massive parking lot of cars rides along the road, backup for the underground parking garage at the mall.  A group of people putting on a play are running about in scripted motion a little farther down from the young women, and a crowd of people are watching next to it.  Though a large amount of them seem to be paying attention to something happening right next to them.  You can't see what though.&#x000A;&#x000A;You can see Gaggle Of Girls, Traveling Actors, and Crowd here.&#x000A;&#x000A;Exits: south to HK Research Group, northeast, west and north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FE4A0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FE4A0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Mall Entrance&#x000A;The Mall Entrance is a mostly fountain, with spiraling and shooting archs of water all over, an impressive sign over them stating its the entrance to St Peters Mall.  It certainly stands out.&#x000A;&#x000A;Exits: south to Commercial Intersection and north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FE510"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FE510">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Commercial Intersection&#x000A;Quite a crossroads, Commercial Intersection is busy despite... current events.  A group of young women, obviously oblivious to everything but themselves, are striding towards the mall, probably intent on selling their parents money.  A massive parking lot of cars rides along the road, backup for the underground parking garage at the mall.  A group of people putting on a play are running about in scripted motion a little farther down from the young women, and a crowd of people are watching next to it.  Though a large amount of them seem to be paying attention to something happening right next to them.  You can't see what though.&#x000A;&#x000A;You can see Gaggle Of Girls, Traveling Actors, and Crowd here.&#x000A;&#x000A;Exits: south to HK Research Group, northeast, west and north to Mall Entrance.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FE580"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FE580">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">Haverton Bridge&#x000A;The Haverton Bridge juts off at an awkward angle, the addition of the uptown district obvious as a later one.  You can see a few people walking across it, drunk as shit.  The uptown district is known for one thing... its bars.  Well, two things.  The second is it's population.  All douchebags with orange spray tans, and hot chicks with a stick up their ass.&#x000A;&#x000A;Exits: southwest to Commercial Intersection and northeast.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FE5F0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FE5F0">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">Party Avenue&#x000A;Party. Freaking. Avenue.  You remember when you were 21 and used to be here every night.  With how expensive the bars are here, thats probably why you're scrambling for money now.  Looking down the row you can see all the locales you used to consume alcohol in.  It looks like not much has changed.&#x000A;&#x000A;Exits: southwest to Haverton Bridge, east and north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FE660"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FE660">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Illus Design Corp&#x000A;Illus Design sits here, one of the longest standing companies in the city.  They are very down to earth despite their incredible looking locale that spirals into the sky.  There's a window to the basement you can see on the right side of the building, and it appears already slightly open.  Inside you can see a amateur sign next to a closet door that says "Supply Shop Open".  Whats even more interesting is the obvious trip wire through the window, showing you this is more then it appears. And definitely a trap.&#x000A;&#x000A;You can see Supply Shop (in which is Possible Trip Wire) here.&#x000A;&#x000A;Exits: west to Party Avenue and northeast.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FE6D0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FE6D0">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">Walter Haven&#x000A;Walter Havens fountains lead to a beautifully lit garden area.  Behind the trees lining the garden, you can see a door into a wall of stone.  It's unmarked, but the nearby tree has that Weird Logo you've been seeing.&#x000A;&#x000A;Exits: east, southwest to Illus Design Corp and north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FE740"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FE740">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Side Pass&#x000A;The garden curls around into a little side road/path.  Its easy to get around Uptown with all these winding paths through gardens and other city beautification projects.  Much better then the business district, thats for sure.&#x000A;&#x000A;Exits: south to Walter Haven, southwest and northeast.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x031FE7B0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x031FE7B0">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">Palomino Bar n Grill&#x000A;2 Dollar chili cheese dogs and a quart of beer is what you remember about this place.  The Palomino is or well... was awesome when you were a bit younger, and drinking copious amounts.  Its good to visit this old place again.&#x000A;&#x000A;An ex girlfriend of yours, the most beautiful liar you have ever known, it's at front of the bar in the Palomino.  You heard she took over this joint, but certainly didn't want to pursue a congratulations visit.&#x000A;&#x000A;Exits: southwest to Side Pass and west.&#x000A;&#x000A;Courtney is sitting at the bar.  Courtney.  Goddamnit, you had forgotten that another friend of yours had told you one of your ex's bought this place. Which was surprisingly empty, enough that Courtney of course turns and looks at you when you walk in.&#x000A;Courtney smirks "I sent all the others that came to my corral, but I guess the herd was missing one." before just turning and pulling down her jean shorts.&#x000A;Your simple mind was blown at the glimpse of (the very much fantasized about) soft, small lips of Courtneys, nested in between her thin thighs.  The soft pink entrance just barely noticeably covered in light-peach-hairs.. and twisting and changing, her juices spewing from it.  She archs her back, biting her lip as the the plump little clam that's her pussy starts to grow darker and even fatter, gaining in size to meet the size of a common breeding mare.  She lets out a audible "Oooooooh" as it winks for the first time, seeming to invite you to come shove your snout in it.&#x000A;&#x000A;The pussy you had craved so much, not knowing til now, was changing into the swollen needy cunt of a mare in heat.  In some amount of effort, Courtney craned her head to look at you, smiling at the sight of you under her spell, "Come get me, I've needed you again all this time.".  The end of the last sentence was her last as a human, shifting from her desperate begging to the whinny of a very reluctant breeding mare.&#x000A;&#x000A;One that you neeeeeded.  You catch yourself, stunned at the thought that snuck into your mi- OH MY GOD IT SMELLS AMAZING.  Your pants stirred, your vision stuck on the now complete pussy winking in front of you.  The scent, oh god, the scent of beautiful things, of happinnnneeess in physical form, you NEEEEEEEEEEEEIIGGHHH.  A whinny explodes from your mouth as the world spins a full ninety degrees, shaken from the terrifying fall by your front hooves landing on the firm ground.  You know somethings going on with your body, your mind or what... whatever it doesn't matter, as your nostrils have landed only inches away from the nervous mare in front of you.  Specifically, inches away from the squelching of her needy pussy.  You know it's Courtney, you know she doesn't want you to mate with her, and you don't care.  Her desperate struggles can't prevent you from jumping ontop her, your new stallion penis breaking out of its sheath to sink slowly, wetly into her guilty pleasure..  Her whinny of surprise hardly breaks you from your trance as you follow the rules of nature, fucking her so hard that she falls down on her front knees in desperate attempt to manage the massive strength of your thrusting.&#x000A;&#x000A;She's yours, you can feel it coming, you're claiiimminggggg NEEIEHGGHGGHHHHHHHHHHH.&#x000A;&#x000A;&#x000A;&#x000A;    *** The last thought fades from your mind as you impregnate the now mindless mare. Eventually you reluctantly pull out, knowing Courtney is ready to bear your young for the rest of her life.&#x000A;&#x000A;Game Over.  "Now Thats A Stallion"  Male Human to Stallion. ***&#x000A;&#x000A;&#x000A;In that game you scored 0 out of a possible 0, in 15 turns.&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT, or UNDO the last command?&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x031FE820">
+    <command xml:space="preserve">examine wand</command>
+    <result xml:space="preserve">You see nothing special about the wand.&#x000A;&#x000A;Do you pick up the wand?</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x03209DF8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x03209DF8">
+    <command xml:space="preserve">y</command>
+    <result xml:space="preserve">You pick up the wand, a strange power tingling down your arm as the end briefly glows.&#x000A;&#x000A;&#x000A;&#x000A;&#x000A;**BAM**&#x000A;&#x000A;Before your brain can even process what is happening, a massive explosion of magic happens right in front of you, knocking you to your back with the force.&#x000A;&#x000A;"INTRUDER, LAY DOWN MY ARTIFACT" the sound, decibels above what any normal human could project, nearly blows your damn ears out.  Figuring she must mean the Wand, you throw it to the ground, raising your hands up after as if you were surrendering.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x03209E68"/>
+    </children>
+  </item>
+  <item nodeId="node-0x03209E68">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">"INTRUDER, LAY IT DOWN OR FACE MY WRATH" You have no idea how to react, so you do what you've always done best and curl into the fetal position.  The massive sound ceases, and the smoke clears, whisking off to nothingness. &#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x03209ED8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x03209ED8">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Still shivering, you peek your eyes out from around your arm.  A woman stands there, clad in dark robes, her features beyond beautiful.&#x000A;&#x000A;"What is your name, mortal?" the question flows of her lips like notes rippling on a harp. You stutter your name in response, hardly knowing what the hell is happening.&#x000A;&#x000A;"You have my artifact, young one" she says. "I am the protector of this magical realm, the Mistress of the Dog.  I am one of several who rule this magical realm, among my fellow justicars The Mistress of the Elephant, the Bull, and the Zebra. I have come to despise my sisters though, as being their protector I am always watching over them.. and in the time I have guarded them they have grown restless and violent.&#x000A;&#x000A;Today is the End Day, the day in which their hate for mankind is spilling over.  You do not know this but you are that which is Chosen, one who carries the Artifact."&#x000A;&#x000A;**CRACK**&#x000A;&#x000A;With a snap of her fingers, a box appears in your hands.  "Wha... what is this?" you ask in wonderment.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x03209F48"/>
+    </children>
+  </item>
+  <item nodeId="node-0x03209F48">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">With a kind smile, she answers "This is the Artifact, child.  It is your kinds only hope in saving your physical world from my sisters and their minions.  You must collect the wands of their covens, place them in the Artifact and then find the ancient device that will remove our world from yours.&#x000A;&#x000A;"Where is it?!" you cry, beginning to get distressed about her extremely high expectations of you.&#x000A;&#x000A;Shaking her head she responds "I do not know, none who hold a wand of power can know that".  Well. This is sounding kinda difficult.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x03209FB8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x03209FB8">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">"OO! That reminds me!" she says, snapping her fingers again.  The wand you had previously thrown on the ground rises, slowly moving through the air towards you before coming to a stop and hovering a foot from your box.&#x000A;&#x000A;"Take my wand, The Wand of The Dog, and place it in the box, sealing my magic.  Hurry now! There is not much time! You must find the other three and then dispose of them!" you nod, terrified at the prospect, but still snatch the wand out of the air and throw it in your box.&#x000A;&#x000A;Looking up, the beautiful witch is smiling at you and fading away into nothingness...&#x000A;&#x000A;Well, fuck guess you gotta save the world.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0320A028"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0320A028">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0320A098"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0320A098">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Fulfill Your Destiny)&#x000A;&#x000A;Park Entrance&#x000A;The foreboding darkness of the city park looms here, swallowing up any that dare go inside.  Something seems off about it tonight, and not in a good way.&#x000A;&#x000A;You can see Fulfill Your Destiny, a couple bushes, an entrance sign, a bent fence, and a flickering streetlight here.&#x000A;&#x000A;Exits: north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0320A108"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0320A108">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0320A178"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0320A178">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">15 Rogers Road&#x000A;The foreboding darkness of the city park looms here, swallowing up any that dare go inside.  Something seems off about it tonight, and not in a good way.&#x000A;&#x000A;Exits: south to Park Entrance, west, northwest, north and east.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0320A1E8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0320A1E8">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Lackluster Apartments&#x000A;The crumbling building labeled "Lackluster Apartments" is only really used by the assorted methheads living in the area, and as a quick, albeit dangerous, shortcut between the back gate of the nearby Research building and the city park.&#x000A;&#x000A;Exits: south to 15 Rogers Road and north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0320A258"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0320A258">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">HK Research Group&#x000A;The inner quarters of the firm may be locked, but the same old passable fences are there.  The high end company tried to repair the cut holes and kicked in chains the first few months... but the companies decision to build their structure right in the middle of one of the primary paths through the city was a dumb idea.  People may work there during the day... but it was the path it provided at night that made it popular.&#x000A;&#x000A;Exits: south to Lackluster Apartments, east and north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0320A2C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0320A2C8">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Commercial Intersection&#x000A;Quite a crossroads, Commercial Intersection is busy despite... current events.  A group of young women, obviously oblivious to everything but themselves, are striding towards the mall, probably intent on selling their parents money.  A massive parking lot of cars rides along the road, backup for the underground parking garage at the mall.  A group of people putting on a play are running about in scripted motion a little farther down from the young women, and a crowd of people are watching next to it.  Though a large amount of them seem to be paying attention to something happening right next to them.  You can't see what though.&#x000A;&#x000A;You can see Gaggle Of Girls, Traveling Actors, and Crowd here.&#x000A;&#x000A;Exits: south to HK Research Group, northeast, west and north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0320A338"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0320A338">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">Haverton Bridge&#x000A;The Haverton Bridge juts off at an awkward angle, the addition of the uptown district obvious as a later one.  You can see a few people walking across it, drunk as shit.  The uptown district is known for one thing... its bars.  Well, two things.  The second is it's population.  All douchebags with orange spray tans, and hot chicks with a stick up their ass.&#x000A;&#x000A;Exits: southwest to Commercial Intersection and northeast.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0320A3A8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0320A3A8">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">Party Avenue&#x000A;Party. Freaking. Avenue.  You remember when you were 21 and used to be here every night.  With how expensive the bars are here, thats probably why you're scrambling for money now.  Looking down the row you can see all the locales you used to consume alcohol in.  It looks like not much has changed.&#x000A;&#x000A;Exits: southwest to Haverton Bridge, east and north.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0320A418"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0320A418">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Upper Class Arts&#x000A;Upper Class Arts is this gimicky thing for rich couples to drink wine and make paintings Bob Ross style.  Of course, they're drunk and not artists so they typically turn out terrible, but they're rich, so they aren't worried about what they spend their money on.&#x000A;&#x000A;Exits: south to Party Avenue and northeast.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0320A488"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0320A488">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">The Long John&#x000A;You enter The Long John, a nearby bar that's usually packed this time of the day.  As you enter, you can see a crowd near bar.  Wait a sec, they're all wearing ski masks..&#x000A;&#x000A;Exits: southwest to Upper Class Arts and north.&#x000A;&#x000A;One turns to seee you, shit!&#x000A;&#x000A;"HEY STOP THERE!" Plants shoot out of the ground, holding your feet to the ground.  Suddenly the crowd starts thinning in front of you, disappearing into nonexistence until just one remains. Well one, and what the illusions were looking at.. A poor woman.  The short haired girl has dyed hair, the color of blue, and is crying with all four of her limbs held to the ground with vines as well. The robed figure pulls back her hood to reveal... some sort of deer woman? What the hell is this?&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0320A4F8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0320A4F8">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">The deer woman opens her muzzle and starts her speech, "This young woman thought she could hit one of my friends that was crossing the road and keep driving.  "Jennifer" here thinks she is above us.  But she's going to be the perfect replacement, and very much one of us.  And I think you'll enjoy joining her.. she'll need a mate to give her a fawn to raise.&#x000A;&#x000A;With this statement the girl lets out a loud sob, struggling to escape the vines with no hope. "Please I'll do anything I don't want to be an animal" she begs the witch, who just ignores her. &#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0320A568"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0320A568">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Suddenly the vines extend, grabbing onto your arms and guiding you through the air til you are on all fours behind the poor girl.  Shes trying to crane her head to see what is happening, but a vine sprouts out from underneath her and turns her head forward. Oh crap... this isn't good.&#x000A;The sound of a car outside passing comes as a unexpected savior.  The witch freezes in the light beams as it drives past.  This is your chance to escape, or try to just "ride" this out.  Do you want to escape?</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0320A5D8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0320A5D8">
+    <command xml:space="preserve">y</command>
+    <result xml:space="preserve">You refuse to, breaking free of the magical vines and running through the back door.&#x000A;&#x000A;As you sprint across the alley to the woods behind the building you find yourself... Growing? No! You're lifting.. Levitating into the air. "Fuck!" You yell, unable to go anywhere.&#x000A;&#x000A;Against your will, you start to turn in the air, revealing the witch and bound Jennifer standing behind you. The witch has her wand pointed at you, its magic holding you in the air.&#x000A;&#x000A;"You just had to run. You couldn't take my generous gift" her spiteful taunt making you feel sick. "Well lets give you your punishment.."&#x000A;&#x000A;*POPPP*&#x000A;&#x000A;All your clothes are gone. You try to cover your shame but you still cant control your limbs. You'll have to settle for just staring daggers at the witch. Then you feel your penis twitch. Then twitch again. "What are you doing?!" You yell, weird feelings flying through your body. The witch smiles and waves her arm, forcing your head to look down.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0320A648"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0320A648">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Your cock is fully erect, it standing like a sideways flag pole out of your nethers. But its twitching, and darkening. You watch as the head of it disappears into its length, the feeling of warmth spreading from it. You can only gasp as the skin behind it bubbles and expands like a bloated... Breast? The breast skin holding your dick changes to the same color as it, your dick shrinking slightly in size as your balls disappear in the mammary mass. "Whyyyy?" Your ragged cry escapes your mouth at the sight of what you thought was still your dick multiplying into 3 more, the realization that you now have a few small teets sinking in. Brown fur erupts from the outside of your jiggling breasts tissue and starts to cover your widening ass. The area behind your utter is stirring, and from what you can feel growing warmer and wetter. "ohhhhhh" you moan as you can feel a tail wiggling above your ass, the warm feeling right below it and moving to meet with your butt hole.&#x000A;&#x000A;Suddenly you drop from the sky, landing nimbly on your hardening fingers. "Get her, Jennifer" the command from the witch causing you to jump, you had forgotten they were there.&#x000A;&#x000A;*SNIFF*&#x000A;&#x000A;the warmth behind you is being nuzzled by something, and its making you feel weird. Looking behind, you have just enough time to see the antlers of a stag before his tongue licks your warmth, sending a shockwave of pleasure through you.&#x000A;&#x000A;&#x000A;Press any key to continue ...</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0320A6B8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0320A6B8">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Its then that you realize what's happening to you. "Pleaze don't make me the doe" you beg, "ill do whatever you want.. Please dooOOOOOOHH" The stag jumps on top of you, thrusting frustratingly at your doe pussy. You bleat, trying to get out from underneath him. His dick finally hits the target though.. But its your little doe asshole. He plows into it, causing you to cry out in a deerlike whimper. He starts fucking you like mad, the feeling of being mated with a new feeling for you. His balls keep slapping against your plump doe teets as one of his thrusts pull out far enough to plop out of your asshole, the next finding your vagina.&#x000A;&#x000A;He starts going to town again, what you can only assume as a shit covered deer dick pounding your pussy. You keep crying out in fear but you can feel something stirring inside of you. "Nooooooo" the bleat the closest to a human sound you can make as you piss yourself from the pleasurable humiliation. The stag thrusts all the way in, your eyes popping out of your head as the sudden move pushes you to cum on his hilted cock. You can feel his seed pumping inside of you, and you know you've been claimed. You bleat as he pulls out,exhausted, a squelching sound of your still wet pussy spewing out some of his cum. But its still too much, you know you're pregnant.&#x000A;&#x000A;The witch laughs at you, turning to leave you there to get raped by former Jennifer some more. "im going to leave you with your mind intact asshole," her last words to you putting terror into your heart, "i hope you enjoy deer dicks pounding you for the rest of your life, because that's all your gonna get.".&#x000A;&#x000A;&#x000A;&#x000A;    *** Game Over.  "DOH!!!"  Male Human to Doe. ***&#x000A;&#x000A;&#x000A;In that game you scored 0 out of a possible 0, in 11 turns.&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT, or UNDO the last command?&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+</Skein>
